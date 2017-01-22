@@ -1,0 +1,69 @@
+[0122/150613:ERROR:process_reader_win.cc(233)] ReadMemory at 0xba5000 of 45056 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/150613:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/150613:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/150654:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/150804:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/150814:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/151356:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/151713:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75f000 of 3972 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/151713:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/151713:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/153645:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/153720:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/154108:ERROR:process_reader_win.cc(233)] ReadMemory at 0x12f5000 of 45056 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/154108:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/154108:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/154119:ERROR:process_reader_win.cc(233)] ReadMemory at 0x17c2574 of 512 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/154120:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/154120:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/155114:ERROR:process_reader_win.cc(233)] ReadMemory at 0x9c5000 of 45056 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/155114:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/155114:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/155841:ERROR:process_reader_win.cc(233)] ReadMemory at 0xaf5000 of 45056 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/155841:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/155841:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160001:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160026:ERROR:process_reader_win.cc(233)] ReadMemory at 0xcf5000 of 45056 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160026:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/160026:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160034:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73580000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\safemon.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6bf80000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\iNetSafe.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73b30000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.14393.447_none_89c64d28dafea4b9\COMCTL32.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74ed0000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\System32\COMDLG32.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74430000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6af20000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75150000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75660000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74910000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x740e0000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0xfc50000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.116\chrome_child.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6e1d0000 of 64 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0122/160318:ERROR:process_reader_win.cc(233)] ReadMemory at 0xfe5000 of 45056 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160318:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/160318:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160401:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1342574 of 512 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160401:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/160401:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160704:ERROR:process_reader_win.cc(233)] ReadMemory at 0x952170 of 62 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/160704:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/160704:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160709:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160721:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160804:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/160901:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0122/161039:ERROR:process_reader_win.cc(233)] ReadMemory at 0x9a5000 of 45056 bytes failed: ?????? ReadProcessMemory ? WriteProcessMemory ??? (0x12B)
+[0122/161039:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[0122/161039:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
