@@ -454,8 +454,8 @@ img {
 }
 #body div {
 	margin: 0 auto;
-	max-width: 960px;
-	padding: 7px 0 57px;
+	max-width: 840px;
+	padding: 7px 0 10px;
 }
 #body div ul {
 	display: inline-block;
@@ -467,19 +467,19 @@ img {
 }
 #body div ul li {
 	float: left;
-	margin: 0 10px;
+	margin: 0 30px;
 	padding: 0;
 	width: 220px;
 }
 #body div ul li h1 {
 	color: #E32A62;
 	font-family: magra-bold-webfont;
-	font-size: 28px;
+	font-size: 22px;
 	font-weight: normal;
 	line-height: 28px;
 	margin: 0;
-	padding: 87px 0 27px 30px;
-	text-align: left;
+	padding: 10px 0 5px 0px;
+	text-align: center;
 	text-transform: capitalize;
 }
 #body div ul li p {
@@ -778,7 +778,7 @@ img {
 	font-weight: normal;
 	line-height: 24px;
 	margin: 0;
-	padding: 40px 0 4px 30px;
+	padding: 20px 0 4px 30px;
 	text-align: left;
 	text-transform: uppercase;
 }
@@ -790,7 +790,7 @@ img {
 	font-weight: normal;
 	line-height: 24px;
 	margin: 0;
-	padding: 0 0 23px 30px;
+	padding: 0 0 13px 30px;
 	text-align: left;
 	text-transform: none;
 }
@@ -823,7 +823,7 @@ img {
 	font-weight: normal;
 	height: 36px;
 	line-height: 36px;
-	margin: 63px auto 0;
+	margin: 13px auto 0;
 	padding: 0;
 	text-align: center;
 	text-transform: uppercase;
